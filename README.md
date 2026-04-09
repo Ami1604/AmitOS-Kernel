@@ -4,3 +4,4 @@ This as an operating system kernel project.
 <br> Successfully added boot.s file
 <br> Successfully added linker.ld file
 <br> Successfully added kernel.c file
+<br> Successfully added makefile

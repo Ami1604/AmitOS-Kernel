@@ -7,7 +7,7 @@ An Educational Monolithic Kernel for x86 Architecture
 AmitOS is a 32-bit monolithic kernel developed as part of a 5-week Design Challenge. It demonstrates the fundamental principles of operating system design, including the transition from Real Mode to Protected Mode, GDT configuration, and basic hardware abstraction.
 
 📄 Final Technical Report
-The complete research paper and documentation are available here. It covers the literature review, implementation methodology, and testing results.
+The complete research paper and documentation are available here * [📄 View the Final Technical Report](./AmitOS-Kernel_Report.pdf). It covers the literature review, implementation methodology, and testing results.
 
 
 

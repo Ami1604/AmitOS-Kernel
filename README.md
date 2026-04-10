@@ -35,6 +35,8 @@ gcc -m32 -T linker.ld -o myos.bin -ffreestanding -O2 -nostdlib boot.o kernel.o -
 
 # 4. Run
 qemu-system-i386 -kernel myos.bin
+
+<br> Detailed video regarding project uploaded successfully 
 👥 Contributors
 Amit Gupta
 
